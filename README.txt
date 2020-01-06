@@ -84,7 +84,7 @@ To edit parameters, select "Edit
 Parameters" and select the option being
 changed.  Type into the Spyder console
 the number that you wish to change it
-to, and press Return to save.  When
+to, and press Return to save it.  When
 'Run model with current parameters' is
 then selected, the model will run
 using the changes that have been made.
