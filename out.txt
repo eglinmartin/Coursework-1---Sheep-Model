@@ -1,8 +1,1 @@
-*MODEL PARAMETERS*
-Number of sheep = 10
-Number of wolves = 3
-Number of farmers = 1
-*MODEL RESULTS*
-Number of sheep alive = 10
-Number of sheep in pen = 2
-Number of sheep eaten = 0
+
